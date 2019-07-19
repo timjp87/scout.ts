@@ -34,7 +34,7 @@
     "@ethereumjs/config-tslint": "^1.1.1",
     "@types/js-yaml": "^3.12.1",
     "@types/node": "^12.6.8",
-    "@types/webassembly-js-api": "0.0.3",
+    "@types/webassembly-js-api": "2.0.0",
     "assemblyscript": "github:AssemblyScript/assemblyscript",
     "prettier": "^1.18.2",
     "tslint": "^5.18.0",
